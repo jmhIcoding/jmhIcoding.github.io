@@ -1,18 +1,5 @@
 ---
 layout:     post
-title:      "hUX 随想录（一）：Digital native 数字原住民"
-subtitle:   " 两岁的侄女天天叫着手机手机 "
-date:       2015-03-25 
-author:     "Hux"
-header-img: "img/post-bg-digital-native.jpg"
-catalog: true
-tags:
-    - hUX 随想录
-    - UX/UI
----
-
----
-layout:     post
 title:      "flowcontainer: 基于python3的pcap网络流量特征信息提取库"
 subtitle:   " flowcontainer使用说明"
 date:       2021-01-02
@@ -25,6 +12,8 @@ tags:
 	- 网络流量分析
 	- pcap
 ---
+
+> 摘要信息
 
 # 库介绍
 flowcontainer是基于python3的网络流量基本信息提取库，以方便完成网络流量的分析任务。给定pcap文件，该库会提取pcap所有的流的相关信息，其中流信息包括：流的源端口、源IP、目的IP、目的端口、IP数据包的长度序列、IP数据集的到达时间序列、有效载荷序列以及相应有效载荷的到达时间序列、等扩展信息。库会对IP数据包做过滤，那些tcp/udp载荷不为0的数据包会统计到有效载荷序列里面。工具简单易用，扩展性和复用性高。
