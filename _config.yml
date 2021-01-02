@@ -1,6 +1,6 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 明昊的博客 | Hux Blog
+title: 明昊的博客
+SEOTitle: 明昊的博客 | jmhIcoding Blog
 header-img: img/home-bg.jpg
 email: jiangminghao@iie.ac.cn
 description: "Coding Life"
@@ -60,10 +60,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: jiangminghao@iie
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 
 
