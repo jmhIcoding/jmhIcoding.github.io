@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keras 载入历史模型报错： AttributeError: ‘str‘ object has no attribute ‘decode‘
+title: "Keras 载入历史模型报错： AttributeError: ‘str‘ object has no attribute ‘decode‘"
 subtitle: ""
 author: 明昊
 header-style: text

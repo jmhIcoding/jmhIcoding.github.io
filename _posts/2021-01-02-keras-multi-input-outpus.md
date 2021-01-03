@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keras 如何搭建复杂模型？
+title: "Keras 如何搭建复杂模型？"
 subtitle: Keras搭建多输入输出模型
 author: 明昊
 header-style: text

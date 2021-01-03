@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keras:An operation has `None` for gradient. Please make sure that all of your ops have a gradient
+title: "Keras:An operation has `None` for gradient. Please make sure that all of your ops have a gradient"
 subtitle: ""
 author: 明昊
 header-style: text
