@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "My Spacemacs Workflow"
-subtitle: 'From Vim to Spacemacs'
-author: "Hux"
+title: 测试模板
+subtitle: 子标题
+author: 明昊
 header-style: text
 tags:
-  - Vim
+  - 测试
   - Emacs
 ---
 
