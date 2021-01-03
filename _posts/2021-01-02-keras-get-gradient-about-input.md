@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Keras 给定输入数据，获取LOSS关于输入的梯度"
-subtitle: 子标题
 author: 明昊
 header-style: text
 category: Keras
