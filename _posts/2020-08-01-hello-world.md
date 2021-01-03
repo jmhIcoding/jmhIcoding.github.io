@@ -1,7 +1,6 @@
 ---
 layout: post
-title:为什么没有文章
-date: 2020-08-01 
+title: 为什么没有文章
 author: JMH
 header-img: img/post-bg-digital-native.jpg
 tags:
