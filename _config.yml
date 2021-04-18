@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Minghao Jiang"
   avatar           : "jmh.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Beijing China"
   employer         :
   pubmed           : ""
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "404.*"
 keep_files:
   - .git
   - .svn
